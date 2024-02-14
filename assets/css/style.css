@@ -489,6 +489,10 @@ h6 {
 }
 
 @media (max-width: 768px) {
+  #hero {
+    background-position: 550px 10px;
+  }
+
   .choice-1 {
     padding-top: -10%;
     margin-top: -1%;
