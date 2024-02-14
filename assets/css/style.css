@@ -489,9 +489,25 @@ h6 {
 }
 
 @media (max-width: 768px) {
+  .choice-1 {
+    padding-top: -10%;
+    margin-top: -1%;
+    margin-bottom: -3%;
+  }
+  .choice-2 {
+    padding-top: -10%;
+    margin-top: -1%;
+    margin-bottom: -3%;
+  }
+  .choice-3 {
+    padding-top: -10%;
+    margin-top: -1%;
+    margin-bottom: -3%;
+  }
   .three-choice {
     margin-top: -50%;
     margin-bottom: -5%;
+    padding-top: -15%;
   }
   .behind-banner-text {
     margin-top: 0%;
