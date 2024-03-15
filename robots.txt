@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://witchcraft-ritual.ru/sitemap.xml
