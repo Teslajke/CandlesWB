@@ -1594,3 +1594,88 @@ section {
   font-weight: 300;
   font-style: normal;
 }
+
+/*--------------------------------------------------------------
+# Sections Candles icons
+--------------------------------------------------------------*/
+
+.red-candle {
+  background: url("/assets/img/candlesicons/red.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.black-candle {
+  background: url("/assets/img/candlesicons/black.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.green-candle {
+  background: url("/assets/img/candlesicons/green.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.orange-candle {
+  background: url("/assets/img/candlesicons/orange.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.lblue-candle {
+  background: url("/assets/img/candlesicons/lblue.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.pink-candle {
+  background: url("/assets/img/candlesicons/pink.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.white-candle {
+  background: url("/assets/img/candlesicons/white.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.yellow-candle {
+  background: url("/assets/img/candlesicons/yellow.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
+
+.blue-candle {
+  background: url("/assets/img/candlesicons/blue.png");
+  height: 100px;
+  width: 27px;
+  display: block;
+  margin-left: 45%;
+  /* Other styles here */
+}
