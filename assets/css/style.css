@@ -1600,7 +1600,7 @@ section {
 --------------------------------------------------------------*/
 
 .red-candle {
-  background: url("/assets/img/candlesicons/red.png");
+  background: url("/assets/img/red.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1609,7 +1609,7 @@ section {
 }
 
 .black-candle {
-  background: url("/assets/img/candlesicons/black.png");
+  background: url("/assets/img/black.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1618,7 +1618,7 @@ section {
 }
 
 .green-candle {
-  background: url("/assets/img/candlesicons/green.png");
+  background: url("/assets/img/green.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1627,7 +1627,7 @@ section {
 }
 
 .orange-candle {
-  background: url("/assets/img/candlesicons/orange.png");
+  background: url("/assets/img/orange.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1636,7 +1636,7 @@ section {
 }
 
 .lblue-candle {
-  background: url("/assets/img/candlesicons/lblue.png");
+  background: url("/assets/img/lblue.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1645,7 +1645,7 @@ section {
 }
 
 .pink-candle {
-  background: url("/assets/img/candlesicons/pink.png");
+  background: url("/assets/img/pink.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1654,7 +1654,7 @@ section {
 }
 
 .white-candle {
-  background: url("/assets/img/candlesicons/white.png");
+  background: url("/assets/img/white.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1663,7 +1663,7 @@ section {
 }
 
 .yellow-candle {
-  background: url("/assets/img/candlesicons/yellow.png");
+  background: url("/assets/img/yellow.png");
   height: 100px;
   width: 27px;
   display: block;
@@ -1672,7 +1672,7 @@ section {
 }
 
 .blue-candle {
-  background: url("/assets/img/candlesicons/blue.png");
+  background: url("/assets/img/blue.png");
   height: 100px;
   width: 27px;
   display: block;
